@@ -12,4 +12,6 @@
 | `DS2` | Python, Package management, OOP | Python |
 | `DS3` | Efficient code practices | Библиотеки и алгоритмы для написания эффективного кода(Map, Filter, Reduce, Counter, Generator) |
 | `DS4` | Анализ датасета(MovieLens) с более 100.000 строк | Python, Jupyter Notebook, реализовано 4 класса с методами для анализа |
-| `DS5` | Pandas & SQL | Pandas, SQL(написание запросов для отбора данных) |
+| `DS5` | Pandas & SQL | Pandas, SQL(написание запросов для отбора данных), sqLite3 |
+| `DS6` | Visualization | Matplotlib, Seaborn, Plotly and Pandas |
+| `DS7` | The basics of machine learning | Логистическая/линейная регрессия, Decision tree, Random Forest, k-means, dsbscan |
